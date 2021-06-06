@@ -1,7 +1,5 @@
 <?php
 
-$name = $_POST["codigo"];
-
 // read json file
 $data = file_get_contents('data.json');
 
